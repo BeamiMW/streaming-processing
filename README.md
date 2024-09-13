@@ -1,5 +1,5 @@
 # Streaming Processing with PySpark, Kafka, and PostgreSQL
-This project demonstrates real-time data processing using **Apache Kafka**, **Apache Spark**, and **PostgreSQL**. We simulate retail purchase events, stream them through Kafka, process them with Spark Streaming, and store the aggregated results in a PostgreSQL database.
+This project demonstrates real-time data processing using **Apache Kafka**, **Apache Spark**, and **PostgreSQL**. Simulate retail purchase events, stream them through Kafka, process them with Spark Streaming, and store the aggregated results in a PostgreSQL database.
 
 ## Project Overview
 The main objective of this project is to build a streaming processing system that:
